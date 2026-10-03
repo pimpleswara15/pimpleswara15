@@ -1,14 +1,14 @@
 # Hi 👋, I'm Swara Pimple
 
 🎓 **IT Engineering Student**
-💻 Interested in **Python, C++, Java & Flutter**
-🤖 Exploring **AI, Robotics and innovative technology**
+💻 Interested in Python, C++, Java & Flutter**
+🤖 Exploring AI, innovative technology**
 
 ## 👩‍💻 About Me
 
 I'm an IT Engineering student who enjoys learning new technologies and solving problems through practical work.
 
-I'm currently building my programming and development skills while exploring areas like **Artificial Intelligence, Robotics, and application development**.
+I'm currently building my programming and development skills while exploring areas like **Artificial Intelligence, Robotics , application development and many more.
 
 I enjoy learning through hands-on practice, collaborating with others, and continuously improving my technical skills.
 
@@ -24,11 +24,11 @@ I enjoy learning through hands-on practice, collaborating with others, and conti
 
 ## 🛠️ Skills
 
-**Languages:** Python • C++ • Java
+**Languages: Python • C++ • Java
 
-**Development:** Flutter • Git • GitHub
+**Development: Flutter • Git • GitHub
 
-**Interests:** AI • Robotics • Problem Solving
+**Interests:** AI  • Problem Solving
 
 ## 🎯 Goals
 
@@ -43,7 +43,7 @@ I enjoy learning through hands-on practice, collaborating with others, and conti
 
 I'm always interested in learning, collaborating, and exploring new ideas.
 
-📫 **LinkedIn:** Add your LinkedIn profile here
+📫 **LinkedIn:** https://www.linkedin.com/in/swara-pimple-789b2b3a2?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
