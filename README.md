@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋, I'm Swara Pimple
 
-<!--
-**pimpleswara15/pimpleswara15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **IT Engineering Student**
+💻 Interested in **Python, C++, Java & Flutter**
+🤖 Exploring **AI, Robotics and innovative technology**
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an IT Engineering student who enjoys learning new technologies and solving problems through practical work.
+
+I'm currently building my programming and development skills while exploring areas like **Artificial Intelligence, Robotics, and application development**.
+
+I enjoy learning through hands-on practice, collaborating with others, and continuously improving my technical skills.
+
+## 🚀 Currently Learning
+
+* 🐍 Python
+* 💻 C++
+* ☕ Java
+* 📱 Flutter
+* 🧠 Artificial Intelligence
+* 🔧 Git & GitHub
+* 🧩 Data Structures & Algorithms
+
+## 🛠️ Skills
+
+**Languages:** Python • C++ • Java
+
+**Development:** Flutter • Git • GitHub
+
+**Interests:** AI • Robotics • Problem Solving
+
+## 🎯 Goals
+
+* Strengthen my programming fundamentals
+* Improve my problem-solving skills
+* Build practical and meaningful applications
+* Explore Artificial Intelligence and Robotics
+* Contribute to collaborative projects
+* Prepare for internships and future opportunities
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, collaborating, and exploring new ideas.
+
+📫 **LinkedIn:** Add your LinkedIn profile here
+
+---
+
+⭐ **Learning • Building • Improving**
